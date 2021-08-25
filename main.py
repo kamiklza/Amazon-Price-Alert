@@ -4,6 +4,7 @@ import smtplib
 import os
 
 
+
 my_email = os.environ["GMAIL"]
 my_password = os.environ["GMAIL_PSW"]
 
